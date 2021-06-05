@@ -9,7 +9,7 @@ To_Do List manager app is implemented using React JS.
 2. Click on the add task to delete it
 
 
-![image](https://user-images.githubusercontent.com/72697074/120885726-6fe9f980-c5fb-11eb-90b4-ec68547bb632.png)
+![image](https://user-images.githubusercontent.com/72697074/120885868-2ea61980-c5fc-11eb-9f10-bc9cc0eae7d2.png)
 
 
 ### Live Preview
