@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "http//Tess-Vanta.github.io/ToDoList_React/static/js/main.fe9f06e0.chunk.js",
-    "main.js.map": "http//Tess-Vanta.github.io/ToDoList_React/static/js/main.fe9f06e0.chunk.js.map",
-    "runtime-main.js": "http//Tess-Vanta.github.io/ToDoList_React/static/js/runtime-main.1f2f92db.js",
-    "runtime-main.js.map": "http//Tess-Vanta.github.io/ToDoList_React/static/js/runtime-main.1f2f92db.js.map",
-    "static/js/2.04b38954.chunk.js": "http//Tess-Vanta.github.io/ToDoList_React/static/js/2.04b38954.chunk.js",
-    "static/js/2.04b38954.chunk.js.map": "http//Tess-Vanta.github.io/ToDoList_React/static/js/2.04b38954.chunk.js.map",
-    "index.html": "http//Tess-Vanta.github.io/ToDoList_React/index.html",
-    "precache-manifest.0f540bb1867a1c5869ab3b6c5f406d67.js": "http//Tess-Vanta.github.io/ToDoList_React/precache-manifest.0f540bb1867a1c5869ab3b6c5f406d67.js",
-    "service-worker.js": "http//Tess-Vanta.github.io/ToDoList_React/service-worker.js"
+    "main.js": "/ToDoList_React/static/js/main.fe9f06e0.chunk.js",
+    "main.js.map": "/ToDoList_React/static/js/main.fe9f06e0.chunk.js.map",
+    "runtime-main.js": "/ToDoList_React/static/js/runtime-main.930e847d.js",
+    "runtime-main.js.map": "/ToDoList_React/static/js/runtime-main.930e847d.js.map",
+    "static/js/2.04b38954.chunk.js": "/ToDoList_React/static/js/2.04b38954.chunk.js",
+    "static/js/2.04b38954.chunk.js.map": "/ToDoList_React/static/js/2.04b38954.chunk.js.map",
+    "index.html": "/ToDoList_React/index.html",
+    "precache-manifest.3d018b9bedf3e17b91085c03eabdd096.js": "/ToDoList_React/precache-manifest.3d018b9bedf3e17b91085c03eabdd096.js",
+    "service-worker.js": "/ToDoList_React/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f2f92db.js",
+    "static/js/runtime-main.930e847d.js",
     "static/js/2.04b38954.chunk.js",
     "static/js/main.fe9f06e0.chunk.js"
   ]
