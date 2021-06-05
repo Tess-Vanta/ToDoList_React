@@ -9,5 +9,8 @@ To_Do List manager app is implemented using React JS.
 2. Click on the add task to delete it
 
 
+![image](https://user-images.githubusercontent.com/72697074/120885646-0b2e9f00-c5fb-11eb-81dd-6333d7a3d5f9.png)
+
+
 ### Live Preview
 The Website is hosted at [To-Do List](https://tess-vanta.github.io/ToDoList_React/).
