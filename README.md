@@ -7,6 +7,7 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 To_Do List manager app is implemented using React JS.
 1. Click '+' to add a task.
 2. Click on the add task to delete it
+![image](https://user-images.githubusercontent.com/72697074/120885523-88a5df80-c5fa-11eb-9f6d-5a4f0f725b8b.png)
 
 
 ### Live Preview
